@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassIntro", "ClassIntro\Cl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegerVeReferansTipler", "DegerVeReferansTipler\DegerVeReferansTipler.csproj", "{9ACC1035-9907-4E08-ABFE-17BB230D8745}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donguler", "Donguler\Donguler.csproj", "{0EF43A3A-8A4D-4263-AFC5-0F98261D59A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{55BCE8F3-59BC-4021-A30E-BBD5131E522A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{9ACC1035-9907-4E08-ABFE-17BB230D8745}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9ACC1035-9907-4E08-ABFE-17BB230D8745}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9ACC1035-9907-4E08-ABFE-17BB230D8745}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EF43A3A-8A4D-4263-AFC5-0F98261D59A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EF43A3A-8A4D-4263-AFC5-0F98261D59A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EF43A3A-8A4D-4263-AFC5-0F98261D59A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EF43A3A-8A4D-4263-AFC5-0F98261D59A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55BCE8F3-59BC-4021-A30E-BBD5131E522A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55BCE8F3-59BC-4021-A30E-BBD5131E522A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55BCE8F3-59BC-4021-A30E-BBD5131E522A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55BCE8F3-59BC-4021-A30E-BBD5131E522A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
